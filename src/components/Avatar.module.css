@@ -1,0 +1,24 @@
+.avatarSidebar {
+  width: 8rem;
+  height: 8rem;
+  box-sizing: initial;
+  border-radius: 50%;
+  margin-top: -4.6rem;
+  border: 6px solid var(--gray-800);
+  outline: 2px solid var(--green-500);
+}
+
+.avatarPost {
+  width: 4rem;
+  height: 4rem;
+  box-sizing: initial;
+  border-radius: 8px;
+  border: 6px solid var(--gray-800);
+  outline: 2px solid var(--green-500);
+}
+
+.avatarCommentBox {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 8px;
+}
